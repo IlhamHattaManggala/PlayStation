@@ -1,0 +1,18 @@
+{
+  "name": "Rental PlayStation Dashboard",
+  "short_name": "PS Rental",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Sistem Kasir Billing & Sewa PlayStation Rental",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3408/3408506.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
